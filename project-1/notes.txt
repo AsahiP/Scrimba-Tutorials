@@ -7,3 +7,7 @@ Project description: create static page with react design convention in mind
 4/11/23
 
 Created render account, attempting to deploy so I don't have to create python server locally
+
+gave up on render account, can't find out what to call my build folder. deploying on vercel - incomplete, had to leave for work
+
+next steps: finish vercel deploy, work on projects
