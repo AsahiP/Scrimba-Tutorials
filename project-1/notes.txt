@@ -4,3 +4,6 @@ Project description: create static page with react design convention in mind
 
 -think of id root as container that entire site will fit into`
 
+4/11/23
+
+Created render account, attempting to deploy so I don't have to create python server locally
