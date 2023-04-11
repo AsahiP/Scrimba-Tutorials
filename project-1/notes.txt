@@ -1,0 +1,6 @@
+3/17/23
+
+Project description: create static page with react design convention in mind
+
+-think of id root as container that entire site will fit into`
+

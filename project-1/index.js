@@ -1,0 +1,1 @@
+ReactDOM.render(<div>heler werld</div>, document.getElementById("root"))
