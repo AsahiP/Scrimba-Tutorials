@@ -1,1 +1,1 @@
-ReactDOM.render(<ul>a list</ul>,<li>item 1</li>, <li>item 2</li>, document.getElementById("root"))
+ReactDOM.render(<ul>a list</ul>, document.getElementById("root"))
