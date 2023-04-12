@@ -1,1 +1,14 @@
-ReactDOM.render(<ul><li>one thing</li> <li>two things</li></ul>, document.getElementById("root"))
+MainContent() {
+    return(
+        <h1>I'm doing the React</h1>
+    )
+}
+
+
+ReactDOM.createRoot(
+    <div>
+        <Navbar />
+        <MainContent />
+    </div>,
+    document.getElementById("root")
+)
